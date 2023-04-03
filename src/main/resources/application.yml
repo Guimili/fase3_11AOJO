@@ -1,6 +1,5 @@
 server:
   port: 8080
 
-build:
-  name: @project.name@
-  version: @project.version@
+build_name: @project.name@
+build_version: @project.version@
