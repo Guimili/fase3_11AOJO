@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.fase3</groupId>
-	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>solution_fase3_api</artifactId>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>demo</name>
+	<name>solution_fase3_api</name>
 	<description>Solution Sprint Fase 3 11AOJO</description>
 	<properties>
 		<java.version>11</java.version>
